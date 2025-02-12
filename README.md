@@ -14,3 +14,5 @@ functionally with this controllers especially if more than one controller is nee
 a personal computer through the PLC is designed to survive in a rugged industrial atmosphere and to be very flexible in how it interfaces with inputs and outputs to the real
 world. PLC is on the right task as an industrial controller and increases a wide range of
 use. Thus it is one of the most typical factory automating controllers
+
+# File Undergraduate_Thesis-main.zip contain Siemens PLC project files
