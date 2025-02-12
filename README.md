@@ -15,4 +15,5 @@ a personal computer through the PLC is designed to survive in a rugged industria
 world. PLC is on the right task as an industrial controller and increases a wide range of
 use. Thus it is one of the most typical factory automating controllers
 
+# Thesis (1).pdf Complete Thesis Report
 # File Undergraduate_Thesis-main.zip contain Siemens PLC project files
